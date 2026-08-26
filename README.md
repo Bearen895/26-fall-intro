@@ -15,3 +15,5 @@ pip install otter-grader<br />
 pip install --upgrade nbstripout <br />
 nbstripout --install
 </pre>
+
+4. Install "auto-pull" from the Extensions tab on the left.
